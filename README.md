@@ -1,4 +1,4 @@
--- ## 👋💻 Welcome
+-- 👋💻 Welcome
 -- I am Satyam Porwal. Currently, I am a BCA 3rd year student at IIMT University (Meerut). I have keen interest in coding with Python and develop web pages. I have done my project on travel and tourism website, Alexa voice assistance and Attendance marking system. Now, I am looking forward for an internship as a software developer.
 # 👋 Hi, I'm Satyam Porwal
 
@@ -10,13 +10,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate and persistent coder currently pursuing my Bachelor of Computer Applications. I specialize in Python programming and web development, with a strong focus on building secure, user-friendly, and visually impressive solutions. My academic journey has been enriched by hands-on projects like:
+I am a passionate and persistent coder currently pursuing my Bachelor of Computer Applications at IIMT University (Meerut). I specialize in Python programming and web development, with a strong focus on building secure, user-friendly, and visually impressive solutions. My academic journey has been enriched by hands-on projects like:
 
 - 🌍 **Travel & Tourism Website** – A dynamic platform to explore destinations and book tours.
 - 🎙️ **Alexa Voice Assistant Clone** – Voice-controlled assistant using Python and speech recognition.
 - 🧑‍💼 **Attendance Marking System** – A smart solution for tracking student attendance efficiently.
 
-Now, I'm actively seeking an **internship opportunity** as a Software Developer to contribute to impactful projects and grow alongside industry professionals.
+Now, I am actively looking forward for an **internship opportunity** as a Software Developer to contribute to impactful projects and grow alongside industry professionals.
 
 ---
 
