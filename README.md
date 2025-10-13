@@ -1,7 +1,4 @@
-<-- 👋💻 Welcome
-I am Satyam Porwal. Currently, I am a BCA 3rd year student at IIMT University (Meerut). I have keen interest in coding with Python and develop web pages. I have done my project on travel and tourism website, Alexa voice assistance and Attendance marking system. Now, I am looking forward for an internship as a software developer.
--->
-# 👋 Hi, I'm Satyam Porwal
+## 👋 Hi, I'm Satyam Porwal
 
 🎓 **BCA Final Year Student**  
 📍 IIMT University, Meerut  
