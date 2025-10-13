@@ -36,7 +36,7 @@ Now, I am actively looking forward for an **internship opportunity** as a Softwa
 
 ---
 
-## let's Connect
+## 🤝 Connect with Me
 
 # - 📧 Email: satyamporwal123456@gmail.com
 # - 💼 LinkedIn: linkedin.com/in/satyamporwal
