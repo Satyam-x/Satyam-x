@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Elevator Pitch
+## 🚀 About Me
 
 I'm a passionate and persistent coder currently pursuing my Bachelor of Computer Applications. I specialize in Python programming and web development, with a strong focus on building secure, user-friendly, and visually impressive solutions. My academic journey has been enriched by hands-on projects like:
 
@@ -23,27 +23,25 @@ Now, I'm actively seeking an **internship opportunity** as a Software Developer 
 ## 🛠️ Skills & Technologies
 
 - **Languages**: Python, HTML, CSS, JavaScript  
-- **Frameworks**: React (Basics), Flask  
+- **Frameworks**: React (Basics)  
 - **Database**: MySQL  
-- **Tools**: Git, GitHub, VS Code  
-- **Soft Skills**: Communication, Critical Thinking, UI/UX Awareness  
+- **Tools**: Git, GitHub, VS Code 
+- **Soft Skills**: Communication, Critical Thinking,
 
 ---
 
 ## 🌱 What I'm Working On
 
 - Polishing my portfolio with professional layouts and interactive features  
-- Mastering Git workflows and deployment strategies  
-- Exploring bilingual (Hindi/English) interfaces for accessibility  
+- Mastering Git workflows and deployment strategies   
 - Preparing for global tech opportunities  
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your.email@example.com]  
+- 📧 Email: [satyamporwal123456@gmail.com]  
 - 💼 LinkedIn: [linkedin.com/in/satyamporwal](#)  
-- 🌐 Portfolio: [your-portfolio-link.com](#)
 
 ---
 
