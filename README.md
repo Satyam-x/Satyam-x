@@ -20,10 +20,10 @@ Now, I am actively looking forward for an **internship opportunity** as a Softwa
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: Python, HTML, CSS, JavaScript  
+- **Languages**: Java, Python, HTML, CSS, JavaScript  
 - **Frameworks**: React (Basics)  
 - **Database**: MySQL  
-- **Tools**: Git, GitHub, VS Code 
+- **Tools**: Git, GitHub, VS Code, Browser's dev tools
 - **Soft Skills**: Communication, Critical Thinking,
 
 ---
