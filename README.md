@@ -37,7 +37,7 @@ Now, I am actively looking forward for an **internship opportunity** as a Softwa
 ---
 
 ## 🤝 Connect with Me
-# - 📧 Portfolio Website: satyamporwal.netlify.app
+# - 📧 Portfolio Website: [satyamporwal.netlify.app]
 # - 📧 Email: satyamporwal123456@gmail.com
 # - 💼 LinkedIn: [https://www.linkedin.com/in/satyamporwal/](https://www.linkedin.com/in/satyamporwal/)
 
