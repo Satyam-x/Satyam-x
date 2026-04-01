@@ -2,7 +2,7 @@
 
 🎓 **BCA Final Year Student**  
 📍 IIMT University, Meerut  
-💻 Aspiring Software Developer |JAVA | Basic Python | Web Developer  
+💻 Aspiring Software Developer | JAVA | Basic Python | Web Developer  
 
 ---
 
@@ -37,7 +37,7 @@ Now, I am actively looking forward for an **internship or a full time opportunit
 ---
 
 ## 🤝 Connect with Me
-# - 📧 Portfolio Website: https://satyamporwal.netlify.app/
+# -    Portfolio Website: https://satyamporwal.netlify.app/
 # - 📧 Email: satyamporwal123456@gmail.com
 # - 💼 LinkedIn: [https://www.linkedin.com/in/satyamporwal/](https://www.linkedin.com/in/satyamporwal/)
 
