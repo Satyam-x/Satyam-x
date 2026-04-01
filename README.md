@@ -2,27 +2,27 @@
 
 🎓 **BCA Final Year Student**  
 📍 IIMT University, Meerut  
-💻 Aspiring Software Developer | Python Enthusiast | Web Developer  
+💻 Aspiring Software Developer |JAVA | Basic Python | Web Developer  
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate and persistent coder currently pursuing my Bachelor of Computer Applications. I specialize in Python programming and web development, with a strong focus on building secure, user-friendly, and visually impressive solutions. My academic journey has been enriched by hands-on projects like:
+I am a passionate and persistent coder currently pursuing my Bachelor of Computer Applications. I have maintained good foundation in Java, OOPs Fundamentals and web development, with a strong focus on building secure, user-friendly, and visually impressive solutions. My academic journey has been enriched by hands-on projects like:
 
 - 🌍 **Travel & Tourism Website** – A dynamic platform to explore destinations and book tours.
 - 🎙️ **Alexa Voice Assistant Clone** – Voice-controlled assistant using Python and speech recognition.
 - 🧑‍💼 **Attendance Marking System** – A smart solution for tracking student attendance efficiently.
 
-Now, I am actively looking forward for an **internship opportunity** as a Software Developer to contribute to impactful projects and grow alongside industry professionals.
+Now, I am actively looking forward for an **internship or a full time opportunity** as a Web Developer to contribute to impactful projects and grow alongside industry professionals.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: Java, Python, HTML, CSS, JavaScript  
+- **Languages**: Java,Basic Python, HTML, CSS, JavaScript  
 - **Frameworks**: React (Basics)  
-- **Database**: MySQL  
+- **Database**: MySQL, MySQL Workbech 
 - **Tools**: Git, GitHub, VS Code, Browser's dev tools
 - **Soft Skills**: Communication, Critical Thinking,
 
